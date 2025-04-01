@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
   console.log('Commit desde  la terminal')
-
+  console.log('Commit de la barra lateral')
   return (
     <>
       <div>
